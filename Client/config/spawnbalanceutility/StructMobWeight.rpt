@@ -1,0 +1,49 @@
+* This is the StructMobWeight report file that is output every time the server starts.
+* 
+* Spawn Balance Utility (SBU) will use this file ONLY if it is renamed to StructMobWeight.csv.
+* Lines starting with '*' are comments and ignored
+* It allows you to add and remove mobs and adjust their spawnweights for Structures
+* like shipwrecks, nether fortresses, water monuments, etc.
+* 
+1, minecraft:ancient_city, HEADING, header:ignore, 0, 0, 0
+2, minecraft:bastion_remnant, HEADING, header:ignore, 0, 0, 0
+3, minecraft:buried_treasure, HEADING, header:ignore, 0, 0, 0
+4, minecraft:desert_pyramid, HEADING, header:ignore, 0, 0, 0
+5, minecraft:end_city, HEADING, header:ignore, 0, 0, 0
+6, minecraft:fortress, HEADING, header:ignore, 0, 0, 0
+7, minecraft:fortress, MONSTER, minecraft:blaze, 10, 2, 3
+8, minecraft:fortress, MONSTER, minecraft:zombified_piglin, 10, 4, 4
+9, minecraft:fortress, MONSTER, minecraft:wither_skeleton, 10, 5, 5
+10, minecraft:fortress, MONSTER, minecraft:skeleton, 10, 5, 5
+11, minecraft:fortress, MONSTER, minecraft:magma_cube, 10, 4, 4
+12, minecraft:igloo, HEADING, header:ignore, 0, 0, 0
+13, minecraft:jungle_pyramid, HEADING, header:ignore, 0, 0, 0
+14, minecraft:mansion, HEADING, header:ignore, 0, 0, 0
+15, minecraft:mineshaft, HEADING, header:ignore, 0, 0, 0
+16, minecraft:mineshaft_mesa, HEADING, header:ignore, 0, 0, 0
+17, minecraft:monument, HEADING, header:ignore, 0, 0, 0
+18, minecraft:monument, MONSTER, minecraft:guardian, 10, 2, 4
+19, minecraft:nether_fossil, HEADING, header:ignore, 0, 0, 0
+20, minecraft:ocean_ruin_cold, HEADING, header:ignore, 0, 0, 0
+21, minecraft:ocean_ruin_warm, HEADING, header:ignore, 0, 0, 0
+22, minecraft:pillager_outpost, HEADING, header:ignore, 0, 0, 0
+23, minecraft:pillager_outpost, MONSTER, minecraft:pillager, 10, 1, 1
+24, minecraft:ruined_portal, HEADING, header:ignore, 0, 0, 0
+25, minecraft:ruined_portal_desert, HEADING, header:ignore, 0, 0, 0
+26, minecraft:ruined_portal_jungle, HEADING, header:ignore, 0, 0, 0
+27, minecraft:ruined_portal_mountain, HEADING, header:ignore, 0, 0, 0
+28, minecraft:ruined_portal_nether, HEADING, header:ignore, 0, 0, 0
+29, minecraft:ruined_portal_ocean, HEADING, header:ignore, 0, 0, 0
+30, minecraft:ruined_portal_swamp, HEADING, header:ignore, 0, 0, 0
+31, minecraft:shipwreck, HEADING, header:ignore, 0, 0, 0
+32, minecraft:shipwreck_beached, HEADING, header:ignore, 0, 0, 0
+33, minecraft:stronghold, HEADING, header:ignore, 0, 0, 0
+34, minecraft:swamp_hut, HEADING, header:ignore, 0, 0, 0
+35, minecraft:swamp_hut, MONSTER, minecraft:witch, 10, 1, 1
+36, minecraft:swamp_hut, CREATURE, minecraft:cat, 10, 1, 1
+37, minecraft:trail_ruins, HEADING, header:ignore, 0, 0, 0
+38, minecraft:village_desert, HEADING, header:ignore, 0, 0, 0
+39, minecraft:village_plains, HEADING, header:ignore, 0, 0, 0
+40, minecraft:village_savanna, HEADING, header:ignore, 0, 0, 0
+41, minecraft:village_snowy, HEADING, header:ignore, 0, 0, 0
+42, minecraft:village_taiga, HEADING, header:ignore, 0, 0, 0
